@@ -85,7 +85,47 @@ This project is built to Power BI best practices, utilizing a clean data model a
 
 ---
 
+## 📘 How to Use
+
+1. Clone the repository:
+   ```bash
+   https://github.com/ashwinshende1603/PhonePe_Dashboard/tree/main
+
+2. Open the .pbix file in Power BI Desktop.
+
+3. Replace data or customize visuals as needed.
+
+4. Export or publish to Power BI Service.
+   
+---
+
+🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+Feel free to fork this repository and submit a pull request.
+
+---
+
+⭐ Show Your Support
+
+If you found this project helpful, please give it a star ⭐ to support continuous improvements.
+
+---
+
+📩 Contact
+
+For professional dashboard development or collaboration:
+
+Email: your-email@example.com
+
+GitHub: https://github.com/your-username
+
+---
+
 ## 🖼️ Project Branding
 
 <img width="500" height="300" alt="Gemini_Generated_Image_cdhh23cdhh23cdhh" src="https://github.com/user-attachments/assets/f923d4a0-3820-4b8a-9a66-3ecf0262af1c" />
 
+---
+
+<h3 align="center">✨ Crafted with precision using Power BI ✨</h3> ```
