@@ -29,18 +29,24 @@ The analysis is segmented across four interactive dashboards for focused insight
 | **Carrier Performance Benchmarking** | Comparative analysis of the operational reliability and market share across competing airlines. | Market Share by Carrier, Flight Status Breakdown by Carrier, Carrier Volume & Delay Benchmarking. |
 | **Route & Network Analysis** | Focus on geographic traffic flow, route-specific performance, and fleet utilization. | Route Traffic Volume, Fleet Utilization by Aircraft, Fleet Performance by Origin (OTP %). |
 
---
 
-##Operational Overview
+
+## Operational Overview
 <img width="1308" height="737" alt="DASHBOARD 1" src="https://github.com/user-attachments/assets/5d0fb7fe-354f-4c38-863f-6a02e57fdd24" />
 
-##Delay & Punctuality Analysis
+
+
+## Delay & Punctuality Analysis
 <img width="1308" height="737" alt="DASHBOARD 2" src="https://github.com/user-attachments/assets/260428e0-1f6a-4cca-9310-d261abc1a510" />
 
-##Carrier Performance Benchmarking
+
+
+## Carrier Performance Benchmarking
 <img width="1308" height="737" alt="DASHBOARD 3" src="https://github.com/user-attachments/assets/1e92a9c2-e832-4457-a468-cf40034387ad" />
 
-##Route & Network Analysis
+
+
+## Route & Network Analysis
 <img width="1308" height="737" alt="DASHBOARD 4" src="https://github.com/user-attachments/assets/f24c2089-3480-4dbe-b67d-ee0bb9911713" />
 
 ---
