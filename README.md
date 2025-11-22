@@ -89,8 +89,7 @@ This project is built to Power BI best practices, utilizing a clean data model a
 
 1. Clone the repository:
    ```bash
-   https://github.com/ashwinshende1603/PhonePe_Dashboard/tree/main
-
+    (https://github.com/ashwinshende1603/AIRLINE_Analysis_Dashboard/tree/main)
 2. Open the .pbix file in Power BI Desktop.
 
 3. Replace data or customize visuals as needed.
@@ -116,7 +115,7 @@ If you found this project helpful, please give it a star ⭐ to support continuo
 
 For professional dashboard development or collaboration:
 
-Email: your-email@example.com
+Email: ashwinshende1603@gmail.com
 
 GitHub: https://github.com/your-username
 
