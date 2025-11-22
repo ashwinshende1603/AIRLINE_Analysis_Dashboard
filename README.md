@@ -1,6 +1,8 @@
 # Airline Operational and Performance Analysis
 <img width="1200" height="700" alt="Gemini_Generated_Image_2a034w2a034w2a03" src="https://github.com/user-attachments/assets/df1bd1e6-1218-45c5-92a0-a78b39ee3da0" />
 
+---
+
 ## 1. Project Overview
 
 This Power BI project provides a comprehensive analysis of flight operations, punctuality, and fleet performance using flight data from 2023 to 2025. The core goal is to enable stakeholders to quickly identify bottlenecks, benchmark carrier performance, and understand seasonal trends impacting flight delays and cancellations.
