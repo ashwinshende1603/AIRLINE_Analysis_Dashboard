@@ -1,4 +1,5 @@
 # Airline Operational and Performance Analysis
+<img width="1200" height="700" alt="Gemini_Generated_Image_2a034w2a034w2a03" src="https://github.com/user-attachments/assets/df1bd1e6-1218-45c5-92a0-a78b39ee3da0" />
 
 ## 1. Project Overview
 
