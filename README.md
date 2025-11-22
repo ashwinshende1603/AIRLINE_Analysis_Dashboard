@@ -9,10 +9,14 @@ This Power BI project provides a comprehensive analysis of flight operations, pu
 
 The project is structured into four distinct dashboards, offering views ranging from executive summary to deep-dive operational analysis.
 
+---
+
 ## 2. Data Source & Scope
 
 * **Dataset:** `flight_dataset_2023_2025.xlsx`
 * **Scope:** Analyzes flight data across various domestic and international routes, covering key metrics such as volume, status, and delay duration over a three-year period.
+
+---
 
 ## 3. Key Dashboards
 
@@ -25,14 +29,21 @@ The analysis is segmented across four interactive dashboards for focused insight
 | **Carrier Performance Benchmarking** | Comparative analysis of the operational reliability and market share across competing airlines. | Market Share by Carrier, Flight Status Breakdown by Carrier, Carrier Volume & Delay Benchmarking. |
 | **Route & Network Analysis** | Focus on geographic traffic flow, route-specific performance, and fleet utilization. | Route Traffic Volume, Fleet Utilization by Aircraft, Fleet Performance by Origin (OTP %). |
 
+--
+
+##Operational Overview
 <img width="1308" height="737" alt="DASHBOARD 1" src="https://github.com/user-attachments/assets/5d0fb7fe-354f-4c38-863f-6a02e57fdd24" />
 
+##Delay & Punctuality Analysis
 <img width="1308" height="737" alt="DASHBOARD 2" src="https://github.com/user-attachments/assets/260428e0-1f6a-4cca-9310-d261abc1a510" />
 
+##Carrier Performance Benchmarking
 <img width="1308" height="737" alt="DASHBOARD 3" src="https://github.com/user-attachments/assets/1e92a9c2-e832-4457-a468-cf40034387ad" />
 
+##Route & Network Analysis
 <img width="1308" height="737" alt="DASHBOARD 4" src="https://github.com/user-attachments/assets/f24c2089-3480-4dbe-b67d-ee0bb9911713" />
 
+---
 
 ## 4. Core Metrics & Key Insights
 
@@ -52,6 +63,8 @@ Based on the initial data analysis, the following observations were identified:
 1.  **Delay Magnitude is Highly Skewed:** A significant majority of delayed flights (**~67%**) fall into the "Greater than 60 Minutes" bucket, suggesting that when delays occur, they tend to be severe and high-impact.
 2.  **Top Delay Airports:** Airports such as **DXB, FRA, DOH, and DEL** were flagged as having the highest average delay times, indicating potential operational bottlenecks at these key hubs (Visual: `Avg. Delay by Origin Airport`).
 3.  **Major Carrier Impact:** When measured by total accumulated delay minutes, **United Airlines, Emirates, and IndiGo** were the highest contributors to system-wide delay impact. *(Further analysis is required to separate volume effect from poor performance.)*
+
+---
 
 ## 5. Technical Requirements
 
