@@ -117,7 +117,7 @@ For professional dashboard development or collaboration:
 
 Email: ashwinshende1603@gmail.com
 
-GitHub: https://github.com/your-username
+GitHub: https://github.com/ashwinshende1603
 
 ---
 
