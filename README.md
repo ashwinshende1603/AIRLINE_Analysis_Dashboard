@@ -32,22 +32,22 @@ The solution is divided into four interconnected dashboards, each designed for a
 
 
 ## Operational Overview
-<img width="1308" height="737" alt="DASHBOARD 1" src="https://github.com/user-attachments/assets/5d0fb7fe-354f-4c38-863f-6a02e57fdd24" />
+<img width="800" height="500" alt="DASHBOARD 1" src="https://github.com/user-attachments/assets/5d0fb7fe-354f-4c38-863f-6a02e57fdd24" />
 
 
 
 ## Delay & Punctuality Analysis
-<img width="1308" height="737" alt="DASHBOARD 2" src="https://github.com/user-attachments/assets/260428e0-1f6a-4cca-9310-d261abc1a510" />
+<img width="800" height="500" alt="DASHBOARD 2" src="https://github.com/user-attachments/assets/260428e0-1f6a-4cca-9310-d261abc1a510" />
 
 
 
 ## Carrier Performance Benchmarking
-<img width="1308" height="737" alt="DASHBOARD 3" src="https://github.com/user-attachments/assets/1e92a9c2-e832-4457-a468-cf40034387ad" />
+<img width="800" height="500" alt="DASHBOARD 3" src="https://github.com/user-attachments/assets/1e92a9c2-e832-4457-a468-cf40034387ad" />
 
 
 
 ## Route & Network Analysis
-<img width="1308" height="737" alt="DASHBOARD 4" src="https://github.com/user-attachments/assets/f24c2089-3480-4dbe-b67d-ee0bb9911713" />
+<img width="800" height="500" alt="DASHBOARD 4" src="https://github.com/user-attachments/assets/f24c2089-3480-4dbe-b67d-ee0bb9911713" />
 
 ---
 
