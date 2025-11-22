@@ -87,5 +87,5 @@ This project is built to Power BI best practices, utilizing a clean data model a
 
 ## 🖼️ Project Branding
 
-<img width="500" height="500" alt="Gemini_Generated_Image_cdhh23cdhh23cdhh" src="https://github.com/user-attachments/assets/584d916e-9cc4-48b8-921c-6fb07c884446" />
+<img width="500" height="300" alt="Gemini_Generated_Image_cdhh23cdhh23cdhh" src="https://github.com/user-attachments/assets/f923d4a0-3820-4b8a-9a66-3ecf0262af1c" />
 
