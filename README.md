@@ -98,20 +98,20 @@ This project is built to Power BI best practices, utilizing a clean data model a
    
 ---
 
-🤝 Contributing
+## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 Feel free to fork this repository and submit a pull request.
 
 ---
 
-⭐ Show Your Support
+## ⭐ Show Your Support
 
 If you found this project helpful, please give it a star ⭐ to support continuous improvements.
 
 ---
 
-📩 Contact
+## 📩 Contact
 
 For professional dashboard development or collaboration:
 
